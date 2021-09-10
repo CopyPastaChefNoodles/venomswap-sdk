@@ -903,6 +903,11 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
+"@copypastachef/core@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@copypastachef/core/-/core-1.0.0.tgz#b3415196c2618cea1324299999767cc64b6ea386"
+  integrity sha512-by4VowCJ6wMZHCMrenyZ3FwQ46YIHviQJrKRG19i40wOi4Q330ZaM5sarOYHTEHkrqOa8HqW0UHDQWZm1YUPNA==
+
 "@ethersproject/abi@^5.1.0":
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/@ethersproject/abi/-/abi-5.1.2.tgz#a8e75cd0455e6dc9e4861c3d1c22bbe436c1d775"
@@ -1546,11 +1551,6 @@
     lodash "^4.17.15"
     semver "^7.3.2"
     tsutils "^3.17.1"
-
-"@venomswap/core@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@venomswap/core/-/core-1.0.0.tgz#f1336702e8ecce6b79b06212220da43a34b3749c"
-  integrity sha512-cd4+e5KKH7QmSjMhe50lty35eHuZVTh9YYnkWPdQPe6KG3R5P5JE3LFliwNLpuV4jWEYYRlEa3OaG3ie+BlYrg==
 
 abab@^2.0.0:
   version "2.0.5"
